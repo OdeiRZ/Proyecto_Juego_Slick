@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="Tileset" tilewidth="32" tileheight="32" tilecount="4096">
+  <image source="Tileset.png" width="2048" height="2048"/>
+ </tileset>
+ <tileset firstgid="4097" name="Tileset" tilewidth="32" tileheight="32" tilecount="4096">
+  <image source="Tileset.png" width="2048" height="2048"/>
+ </tileset>
+ <layer name="Suelo" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACzNlYWAwJRKbAXEZO35MrFmj5o2aRwvzCgcBLsKDB5N5PzgwMcXmsaFiapsHABH1Sr6wBAAA
+  </data>
+ </layer>
+ <layer name="Decoración" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgwA5uciPYMnwIdh0jfppWYBYnYTUK/OSb3wb1rzQffnX4gAyRem+yMjDcQsK3WSkzW5KNgUEKCUuzEecOZBCLFHbUMA8ZRAL1RyHhaDTzsPkNW3wTG77UBh+BaeMTEH8G4i/chNUTAoY8DAxGQGwMxCY8lJtXCDSjCIiLgbiECuZtBJqxCYg3A/EWKphHLRAHTKMAjwcBp7AEAAA=
+  </data>
+ </layer>
+ <layer name="Obstáculos Base" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC6tlZGCow4KxAZD4CXbcdD2QrsWiF595+AAu88gFo+aNDPPwpWdCaRwdkJKeB4t5lABamIctPvBhfAAAfbYF2LAEAAA=
+  </data>
+ </layer>
+ <layer name="Obstáculos Jugador" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGLpgJRsDwyogXs2GKSfIz8AgBMTC/PR3FzXBfQ4Ghgcc9Lc3jhFCJzDS3+7BDgKoEB/RQBwDZU+ggnmzgXgO5cYMegAA0LZqSrAEAAA=
+  </data>
+ </layer>
+ <layer name="Altura" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2PlYMAA79gwxfCJEwJ67BA6E6g/C4iz2VDFQeAiHwPDJSC+zEeeHcSAo+yE1eAC96D0AwLq5gPDcwGWMMUG7pPvHAwgx8jAIA/ECoxUNJTGgJWDsjihJ5AGYpmBdsQQB6wE8gUxaQEAsWpl+LAEAAA=
+  </data>
+ </layer>
+ <layer name="Agujeros" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAUjAaxgHGgXDE5gyDnQLiAPGA2Quwc6vACf5eQysAQAAA==
+  </data>
+ </layer>
+</map>
