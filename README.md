@@ -13,7 +13,8 @@ satisfactoria inmersión del usuario.
 
 
 Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable '.jar' con el 
-proyecto construido y listo para ser ejecutado de manera gráfica.
+proyecto construido y listo para ser ejecutado de manera gráfica, a su vez, hemos incluido las librerías
+necesarias para poder importar el juego en cualquier IDE sin problemas.
 
 ## Requisitos
 - [Java] 7 o superior (para ejecutar la Aplicación)
