@@ -1,4 +1,4 @@
-Proyecto Juego Slick 0.91
+Proyecto Juego Slick 0.92
 ================================
 
 Aplicación que hace uso de la librería Slick e implementa un juego en 2D desarrollado en Java.
