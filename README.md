@@ -20,7 +20,7 @@ necesarias para poder importar el juego en cualquier IDE sin problemas.
 - [Java] 7 o superior (para ejecutar la Aplicación)
 
 ## Entorno de desarrollo
-La Aplicación ha sido desarrollada utilizando el IDE [NetBeans] pero también es posible su 
+La aplicación ha sido desarrollada utilizando el IDE [NetBeans] pero también es posible su 
 importanción en [Eclipe] y demás IDE's.
 
 
